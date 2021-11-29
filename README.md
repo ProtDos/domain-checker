@@ -1,5 +1,5 @@
 # domain-checker
-This is a simple domain checker written in Python.
+This is a simple domain availability checker written in Python.
 ---
 ## Installation
 ```git clone https://www.github.com/HexagonCoder/domain-checker.git```
